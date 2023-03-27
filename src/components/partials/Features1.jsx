@@ -6,7 +6,7 @@ function Courses() {
   const [selected, setSelected] = useState(0);
 
   return (
-    <section className="relative bg-cool-gray-300">
+    <section className="relative bg-white">
 
     {/* Section background (needs .relative class on parent and next sibling elements) */}
     <div className="absolute inset-0 bg-gray-100 pointer-events-none mb-16" aria-hidden="true"></div>
@@ -39,20 +39,20 @@ function Courses() {
       </div >
       <div className='grid grid-cols-2 gap-6 lg:mt-32 lg:ml-12 md:mt-5 w-full xs:grid-cols-1'>
        
-        <div className=' bg-grey-white px-4 py-3 border-white border-2 border-solid  rounded-md shadow-md w-full h-full'>
+        <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid  rounded-md shadow-md w-full h-full'>
         <img className='mt-3' src="/img/Mentor.jpeg" width='40px' height='40px' alt="" />
           <h4 className='font-bold text-sm mt-3'> Experienced Mentors</h4>
           <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
         </div>
 
-        <div className=' bg-grey-white px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
+        <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
         <img className='mt-3' src="/img/Clock.jpeg" width='40px' height='40px' alt="" />
           <h4 className='font-bold text-sm mt-3'> One-on-One Meetings</h4>
           <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
         </div>
 
        
-        <div className=' bg-grey-white px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
+        <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
           <div className='bg-dark-pink p-2 mt-3  rounded-md w-1/6 text-center'>
           <UserGroupIcon className=" text-center text-cool-gray-50  -mt-0.5 h-6 w-3.5"></UserGroupIcon>
           </div>
@@ -60,7 +60,7 @@ function Courses() {
           <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
         </div>
 
-        <div className=' bg-grey-white px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
+        <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
           <img className='mt-3' src="/img/Dollar.jpeg" width='40px' height='40px' alt="" />
           <h4 className='font-bold text-sm mt-3'> Affordable Prices</h4>
           <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>

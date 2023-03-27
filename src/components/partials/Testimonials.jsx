@@ -126,7 +126,7 @@ const Section = styled.section `
       display: flex;
       flex-direction: column;
       align-items:center;
-      background:#B8B5FF;
+      background:#fff;
       border-radius: 2%;
       gap: 1rem;     
     }

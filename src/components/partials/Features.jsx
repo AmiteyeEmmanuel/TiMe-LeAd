@@ -21,7 +21,7 @@ function Features() {
   }, [tab])
 
   return (
-    <section className="relative bg-cool-gray-300">
+    <section className="relative bg-white">
 
       {/* Section background (needs .relative class on parent and next sibling elements) */}
       <div className="absolute inset-0 bg-gray-100 pointer-events-none mb-16" aria-hidden="true"></div>
@@ -57,19 +57,19 @@ function Features() {
 
 
                 <div className='lg:grid lg:grid-cols-2 lg:text-center  lg:mx-0 md:grid md:grid-cols-2 md:w-10/12 md:mx-auto xs:w-8/12 xs:grid-cols-1 '>
-                < button className="w-10/12 flex bg-grey-white rounded-sm  mr-0  text-center py-2 px-5 mb-3" >
+                < button className="w-10/12 flex bg-cool-gray-100 rounded-sm  mr-0  text-center py-2 px-5 mb-3" >
                   <SpeakerWaveIcon color="green" className="bg-light-green py-2 px-2 mt-1 mr-4 font-bold h-8 w-8 rounded-md"  />  <a  className=" font-bold mt-2 btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="/create-account">Audio Classes  </a>
                 </button>
 
-                < button className=" bg-grey-white w-9/12 flex rounded-sm  -ml-6  py-2 px-4 mb-3 xs:ml-0" >
+                < button className=" bg-cool-gray-100 w-9/12 flex rounded-sm  -ml-6  py-2 px-4 mb-3 xs:ml-0" >
                   <WifiIcon color="orange" className="bg-light-orange py-2 px-2 mt-1 mr-4 font-bold h-8 w-8 rounded-md"  />  <a  className=" font-bold mt-2 btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="/create-account">Live Classes  </a>
                 </button>
 
-                < button className="bg-grey-white flex rounded-sm  mr-4 xs:mr-0  py-2 px-5 mb-3" >
+                < button className="bg-cool-gray-100 flex rounded-sm  mr-4 xs:mr-0  py-2 px-5 mb-3" >
                   <PlayCircleIcon color="purple" className="bg-light-purple py-2 px-2 mt-1 mr-4 font-bold h-8 w-8 rounded-md"  />  <a  className=" font-bold mt-2 btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="/create-account">Recorded Classes  </a>
                 </button>
 
-                < button className="bg-grey-white w-9/12 flex rounded-sm ml-2  py-2 px-5 mb-3 xs:ml-0" >
+                < button className="bg-cool-gray-100 w-9/12 flex rounded-sm ml-2  py-2 px-5 mb-3 xs:ml-0" >
                   <DocumentTextIcon color="blue" className="bg-light-blue py-2 px-2 mt-1 mr-4 font-bold h-8 w-8 rounded-md"  />  <a  className=" font-bold mt-2 btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="/create-account"> 50+ Notes  </a>
                 </button>
                 </div>
