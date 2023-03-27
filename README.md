@@ -1,35 +1,43 @@
-# Windmill Dashboard React
+# TechTime LandingPage and Dashboard Reactjs
 
-Four 100 scores and PWA ready. Just connect your data.
+🚀 [See it live](https://techtime-iybs.onrender.com)
 
-🚀 [See it live](https://windmillui.com/dashboard-react)
-
-This is not a template. This is a complete application, built on top of React, with all tiny details taken care of so you just need to bring the data to feed it.
+This is not a template. This is a complete application, built on top of React.
 
 Accessibility is a priority in my projects and I think it should be in yours too, so this was developed listening to real screen readers, focus traps and keyboard navigation are available everywhere.
 
 ## 📦 Features
 
 - 🦮 Throughly accessible (developed using screen readers)
-- 🌗 Dark theme enabled (load even different images based on theme)
 - 🧩 Multiple (custom) components
 - ⚡ Code splitting
 - Tailwind CSS
-- [Windmill React UI](https://windmillui.com/react-ui)
 - React Router
 - Heroicons
 - Chart.js
 - PWA delivering offline-first and app-like experience
 
+Site Running
+https://techtime-iybs.onrender.com
+
 ## 📚 Docs
+
+DesKtop View 
+![Screenshot (12)](https://user-images.githubusercontent.com/97501475/227932014-3c947e2e-01a7-4cc8-bad4-b47455d626c9.png)
+
+Tablet View (Min-Width:768px) 
+![Screenshot (14)](https://user-images.githubusercontent.com/97501475/227932234-041f2554-c451-4521-af1b-810379ad7eb6.png)
+
+Mobile View (Max-WIdth:630px)
+![Screenshot (13)](https://user-images.githubusercontent.com/97501475/227932364-58f1563c-da4e-4131-b90a-7ac7c8db92d9.png)
 
 ### General components
 
-Windmill Dashboard React is built on top of [Windmill React UI](https://windmillui.com/react-ui). You will find the documentation for every small component there.
+You will find the documentation for every small component there.
 
 ### Routing
 
-Routes in Windmill Dashboard are separated into two categories, sidebar ([routes/sidebar.js](src/routes/sidebar.js)) and general ([routes/index.js](src/routes/index.js)).
+Routes in TecchTime LandingPage Dashboard are separated into two categories, sidebar ([routes/sidebar.js](src/routes/sidebar.js)) and general ([routes/index.js](src/routes/index.js)).
 
 #### Sidebar routes
 
@@ -137,10 +145,8 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
+### `npm start`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -148,7 +154,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -162,30 +167,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
 ### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
