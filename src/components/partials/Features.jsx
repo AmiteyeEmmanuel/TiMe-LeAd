@@ -57,7 +57,7 @@ function Features() {
 
 
                 <div className='lg:grid lg:grid-cols-2 lg:text-center  lg:mx-0 md:grid md:grid-cols-2 md:w-10/12 md:mx-auto xs:w-8/12 xs:grid-cols-1 '>
-                < button className="w-10/12 flex bg-cool-gray-100 rounded-sm  mr-0  text-center py-2 px-5 mb-3" >
+                < button className="w-10/12 flex bg-cool-gray-100  rounded-sm  mr-0  text-center py-2 px-5 mb-3" >
                   <SpeakerWaveIcon color="green" className="bg-light-green py-2 px-2 mt-1 mr-4 font-bold h-8 w-8 rounded-md"  />  <a  className=" font-bold mt-2 btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="/create-account">Audio Classes  </a>
                 </button>
 
