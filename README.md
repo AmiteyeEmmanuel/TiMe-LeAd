@@ -1,21 +1,17 @@
-# Windmill Dashboard React
-
-Four 100 scores and PWA ready. Just connect your data.
+# TechTime LandingPage and Dashboard Reactjs
 
 🚀 [See it live](https://windmillui.com/dashboard-react)
 
-This is not a template. This is a complete application, built on top of React, with all tiny details taken care of so you just need to bring the data to feed it.
+This is not a template. This is a complete application, built on top of React.
 
 Accessibility is a priority in my projects and I think it should be in yours too, so this was developed listening to real screen readers, focus traps and keyboard navigation are available everywhere.
 
 ## 📦 Features
 
 - 🦮 Throughly accessible (developed using screen readers)
-- 🌗 Dark theme enabled (load even different images based on theme)
 - 🧩 Multiple (custom) components
 - ⚡ Code splitting
 - Tailwind CSS
-- [Windmill React UI](https://windmillui.com/react-ui)
 - React Router
 - Heroicons
 - Chart.js
@@ -25,11 +21,11 @@ Accessibility is a priority in my projects and I think it should be in yours too
 
 ### General components
 
-Windmill Dashboard React is built on top of [Windmill React UI](https://windmillui.com/react-ui). You will find the documentation for every small component there.
+You will find the documentation for every small component there.
 
 ### Routing
 
-Routes in Windmill Dashboard are separated into two categories, sidebar ([routes/sidebar.js](src/routes/sidebar.js)) and general ([routes/index.js](src/routes/index.js)).
+Routes in TecchTime LandingPage Dashboard are separated into two categories, sidebar ([routes/sidebar.js](src/routes/sidebar.js)) and general ([routes/index.js](src/routes/index.js)).
 
 #### Sidebar routes
 
@@ -141,6 +137,7 @@ Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+### `npm start`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -162,8 +159,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
@@ -172,15 +167,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 
 ### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
 ### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
 ### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
 ### Deployment
 
