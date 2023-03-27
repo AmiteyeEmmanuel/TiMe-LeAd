@@ -1,6 +1,6 @@
 # TechTime LandingPage and Dashboard Reactjs
 
-🚀 [See it live](https://windmillui.com/dashboard-react)
+🚀 [See it live](https://techtime-iybs.onrender.com)
 
 This is not a template. This is a complete application, built on top of React.
 
@@ -16,6 +16,9 @@ Accessibility is a priority in my projects and I think it should be in yours too
 - Heroicons
 - Chart.js
 - PWA delivering offline-first and app-like experience
+
+Site Running
+https://techtime-iybs.onrender.com
 
 ## 📚 Docs
 
