@@ -30,8 +30,8 @@ function Header() {
           {/* Site branding */}
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
-            <Link to="/" className="block">   
-            <img className='mr-20' width="100px" height="100px" src="/img/HeroLogo.jpeg" alt="" />         
+            <Link to="/" className="block">    
+            <p className='mr-20 text-cool-gray-300 italic text-lg' width="100px" height="100px">  TIME-LEAD</p>   
            </Link>
           </div>
     
@@ -45,7 +45,7 @@ function Header() {
               </li>
             
               <li>
-                <a href="/" className="text-cool-gray-300 hover:text-cool-gray-50 px-4 py-3 flex items-center transition duration-150 ease-in-out">Courses </a>
+                <a href="/" className="text-cool-gray-300 hover:text-cool-gray-50 px-4 py-3 flex items-center transition duration-150 ease-in-out">Contact </a>
               </li>
 
               <li>
@@ -53,7 +53,7 @@ function Header() {
               </li>
 
               <li>
-                <a href="/" className="text-cool-gray-300 hover:text-black px-3 py-3 flex items-center transition duration-150 ease-in-out"> Community</a>
+                <a href="/" className="text-cool-gray-300 hover:text-cool-gray-50 px-3 py-3 flex items-center transition duration-150 ease-in-out"> Community</a>
               </li>
             </ul>
 
@@ -61,7 +61,7 @@ function Header() {
           <nav className=" hidden  lg:flex lg:flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
-                <Link to="/Create-account" className="font-medium bg-white rounded-md text-blue  border-blue px-3 py-3 flex items-center transition duration-150 ease-in-out">Enroll Now</Link>
+                <Link to="/Create-account" className="font-medium bg-white rounded-md text-blue  border-blue px-3 py-3 flex items-center transition duration-150 ease-in-out">Invest Now</Link>
               </li>
             </ul>
    

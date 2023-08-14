@@ -31,7 +31,7 @@ function Header() {
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
             <Link to="/" className="block" aria-label="Cruip">
-            <img className='mr-20' width="100px" height="100px" src="/img/HeroLogo.jpeg" alt="" />          
+            <p className='mr-20 text-cool-gray-300 italic text-lg' width="100px" height="100px">  TIME-LEAD</p>       
            </Link>
           </div>
     
@@ -41,7 +41,7 @@ function Header() {
           <nav className=" hidden  lg:flex lg:flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
-                <a href="/create-account" className="font-medium rounded-md ml-3 bg-white  text-blue hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">ENROLL NOW</a>
+                <a href="/create-account" className="font-medium rounded-md ml-3 bg-white  text-blue hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">INVEST NOW</a>
               </li>
             </ul>
    

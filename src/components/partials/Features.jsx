@@ -43,9 +43,7 @@ function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full md:col-span-7 lg:col-span-7 md:mt-6" data-aos="fade-right">
               <div>
-                  <div className="text-gray-500 lg:w-full lg:text-justify lg:mx-0 md:w-11/12 md:text-center md:mx-auto xs:text-center xs:w-11/12 sm:auto"> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard.
-                Definition. While There's No Standard Meaning For High Definition, Generally Any
-                Standard Video Image.</div>
+                  <div className="text-gray-500 lg:w-full lg:text-justify lg:mx-0 md:w-11/12 md:text-center md:mx-auto xs:text-center xs:w-11/12 sm:auto"> It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. "Winning" here doesn't necessarily mean defeating others; it can also mean personal growth, fulfillment, and accomplishment.</div>
                   </div>
 
                 <div className="max-w-3xl md:mx-auto xs:mx-auto xs:text-center lg:mx-0 

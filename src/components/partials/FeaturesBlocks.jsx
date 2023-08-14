@@ -16,7 +16,7 @@ function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h1 className=" text-4xl font-extrabold mb-4">Browse Our Popular Courses</h1>
-            <p className="max-w-4xl p-4 lg:w-full md:w-11/12 md:mx-auto"> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. While There's No Standard Meaning For High Definition, Generally Any Standard Video Image.</p>
+            <p className="max-w-4xl p-4 lg:w-full md:w-11/12 md:mx-auto"> . It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. "Winning" here doesn't necessarily mean defeating others; it can also mean personal growth, fulfillment, and accomplishment..</p>
              
              <img src="/img/blue.jpeg" className="-ml-32 -mt-10" width="50px" height="50px" alt="" />
           
@@ -29,7 +29,7 @@ function FeaturesBlocks() {
                 </button>
 
                 <button className=" bg-cool-gray-300 text-cool-gray-600 hover:text-blue rounded-sm py-2 px-4 mb-3" >
-                  <a className=" btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="#"> Design </a>
+                  <a className=" btn text-gray-600  w-full mb-4 sm:w-auto sm:mb-0" href="#"> Houses </a>
                 </button>
 
                 <button className="bg-cool-gray-300 text-cool-gray-600 hover:text-blue rounded-sm py-2 px-4 mb-3" >
@@ -58,17 +58,17 @@ function FeaturesBlocks() {
               <StarIcon color="gold" className="mt-5 h-4 w-3.5"></StarIcon> <span className="mt-4">(32.7k+)</span>
               </div>
              </div>
-              <p className="text-gray-600 font-extrabold text-xl ">Introduction to user research in UX Design</p>
+              <p className="text-gray-600 font-extrabold text-xl ">You Can Win It</p>
             
             <div className="grid grid-cols-2 gap-20">
             <div className="mt-3 flex gap-1">
               <ClockIcon color="gray" width="18px" height="18px" className="text-gray-600 text-xs"/>
-              <p className="text-gray-600 text-xs"> 23hrs 50mins </p>
+              <p className="text-gray-600 text-xs">Keep trying  </p>
             </div>
 
             <div className="mt-3 flex gap-1">
               <img src="/img/cross.jpeg" width="30px" height="30px" alt="" />
-              <p className="text-gray-600 text-xs"> 15 Lessons </p>
+              <p className="text-gray-600 text-xs"> 15000 </p>
             </div>
             </div>
 
@@ -140,7 +140,7 @@ function FeaturesBlocks() {
               <StarIcon color="gold" className="mt-5 h-4 w-3.5"></StarIcon> <span className="mt-4">(12.7k+)</span>
               </div>
              </div>
-              <p className="text-gray-600 font-extrabold text-xl ">Introduction to HTML, CSS & Bootstrap</p>
+              <p className="text-gray-600 font-extrabold text-xl ">Introduction to Real Estate.</p>
             
             <div className="grid grid-cols-2 gap-20">
             <div className="mt-3 flex gap-1">

@@ -272,7 +272,7 @@ function CreateAccount() {
           <main className="flex items-center justify-center p-6 sm:p-12 md:w-1/2">
             <div className="w-full">
               <h1 className="mb-4 text-xl font-semibold italic text-gray-700 dark:text-gray-200">
-                Create account and Enroll Now
+                Create account and Invest Now
               </h1>
               <Label>
                 <span>First Name</span>

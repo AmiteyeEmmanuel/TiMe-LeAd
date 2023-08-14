@@ -24,9 +24,7 @@ function Courses() {
 
           {/* Content */}
           <div className="max-w-xl md:max-w-none md:w-full md:col-span-7 lg:col-span-12 md:mt-6" data-aos="fade-right">
-                  <div className="text-gray-500 lg:w-full lg:text-justify lg:mx-0 md:w-11/12 md:text-center md:mx-auto xs:w-full xs:text-center xs:mx-auto"> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard.
-                Definition. While There's No Standard Meaning For High Definition, Generally Any
-                Standard Video Image.</div>
+                  <div className="text-gray-500 lg:w-full lg:text-justify lg:mx-0 md:w-11/12 md:text-center md:mx-auto xs:w-full xs:text-center xs:mx-auto"> It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. "Winning" here doesn't necessarily mean defeating others; it can also mean personal growth, fulfillment, and accomplishment.</div>
                   
                 <div className="relative lg:ml-0 md:ml-16">
                     <img className="md:max-w-none mt-10" src="/img/feature1.jpeg" width="600px" height="600px"  alt="Features bg" />
@@ -42,13 +40,13 @@ function Courses() {
         <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid  rounded-md shadow-md w-full h-full'>
         <img className='mt-3' src="/img/Mentor.jpeg" width='40px' height='40px' alt="" />
           <h4 className='font-bold text-sm mt-3'> Experienced Mentors</h4>
-          <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
+          <p className='mt-3 text-sm leading-7'> It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. </p>
         </div>
 
         <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
         <img className='mt-3' src="/img/Clock.jpeg" width='40px' height='40px' alt="" />
           <h4 className='font-bold text-sm mt-3'> One-on-One Meetings</h4>
-          <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
+          <p className='mt-3 text-sm leading-7'> It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. </p>
         </div>
 
        
@@ -57,13 +55,13 @@ function Courses() {
           <UserGroupIcon className=" text-center text-cool-gray-50  -mt-0.5 h-6 w-3.5"></UserGroupIcon>
           </div>
           <h4 className='font-bold text-sm mt-3'> One-on-One Meetings</h4>
-          <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
+          <p className='mt-3 text-sm leading-7'> It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. </p>
         </div>
 
         <div className=' bg-cool-gray-100 px-4 py-3 border-white border-2 border-solid shadow-md w-full h-full'>
           <img className='mt-3' src="/img/Dollar.jpeg" width='40px' height='40px' alt="" />
           <h4 className='font-bold text-sm mt-3'> Affordable Prices</h4>
-          <p className='mt-3 text-sm leading-7'> High-Dimension Video is Video Of Higher Resolution And Quality Then Standard. Definition. High Definition Video Is Video Of Higher Resolution And Quality Than Standard Definition. </p>
+          <p className='mt-3 text-sm leading-7'> It's a reminder that with determination, hard work, and the right mindset, you have the ability to overcome obstacles and achieve your goals. </p>
         </div>
       </div>
       </div>
