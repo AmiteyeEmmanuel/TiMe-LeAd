@@ -4,10 +4,8 @@ import Header from '../components/partials/Header';
 import HeroHome from '../components/partials/HeroHome';
 import FeaturesHome from '../components/partials/Features';
 import FeaturesBlocks from '../components/partials/FeaturesBlocks';
-import Testimonials from '../components/partials/Testimonials';
 import Courses from '../components/partials/Features1';
 import Footer from '../components/partials/Footer';
-import TechHome from '../components/partials/techcom';
 import Community from '../components/partials/community';
 import Faq from '../components/partials/FAQ';
 
@@ -24,11 +22,9 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <TechHome/>
         <FeaturesHome />
         <Courses/>
         <FeaturesBlocks />
-        <Testimonials />
         <Community/>
         <Faq/>
 
