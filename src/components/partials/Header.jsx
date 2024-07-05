@@ -18,7 +18,7 @@ function Header() {
 
   return (
     <header
-      className={`fixed w-full z-30 md:bg-opacity-90 transition duration-300 ease-in-out ${
+      className={`fixed w-full z-30 bg-blue md:bg-opacity-90 transition duration-300 ease-in-out ${
         !top && "bg-blue  backdrop-blur-sm shadow-lg"
       }`}
     >
@@ -34,7 +34,7 @@ function Header() {
                 height="100px"
               >
                 {" "}
-                TeCh-TiMe{" "}
+                TiMe-LeAd
               </p>
             </Link>
           </div>

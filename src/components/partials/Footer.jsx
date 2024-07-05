@@ -15,8 +15,8 @@ function Footer() {
               </Link>
             </div>
             <div className="text-sm text-gray-600">
-              <p>Activate your career today, let tech-time lead you.</p>
-              &copy; {new Date().getFullYear()} TeCh-TiMe
+              <p>Activate your career today, let TiMe-leAd you.</p>
+              &copy; {new Date().getFullYear()} TiMe-LeAd
             </div>
           </div>
 

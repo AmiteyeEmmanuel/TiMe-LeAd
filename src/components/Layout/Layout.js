@@ -1,12 +1,12 @@
 import React  from "react";
-import Header from "./Header";
-import Footer from "./Footer";
+import Header from "../partials/Header";
+import Footer from "../partials/Footer";
+
 
 const Layout = ({children}) => {
   return (
     <div className="dark:bg-black bg">
       <Header />
-     
       {children}
       <Footer />
     </div>
