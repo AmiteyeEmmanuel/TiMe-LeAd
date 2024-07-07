@@ -11,7 +11,7 @@ function Footer() {
           <div className="lg:col-span-3">
             <div className="mb-2">
               <Link to="/" className="inline-block">
-                <p className="text-cool-gray-300 font-extrabold text-lg">TeCh-TiMe</p>
+                <p className="text-cool-gray-300 font-extrabold text-lg">TiMe-LeAd</p>
               </Link>
             </div>
             <div className="text-sm text-gray-600">
